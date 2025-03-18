@@ -1,12 +1,12 @@
 export default {
-  Title: '韩小韩博客',
+  Title: '春光摧折',
   // 访问的域名
   Site: 'https://www.vvhan.com',
   Subtitle: '不曾与你分享的时间,我在进步.',
-  Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
+  Description: '赵世伟博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
   Author: '.𝙃𝙖𝙣',
-  Motto: '运气是计划之外的东西.',
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Motto: 'no哈哈哈哈哈哈哈.',
+  Avatar: 'https://wp-cdn.4ce.cn/v2/ZdhMdtl.jpeg',
   // 导航栏 (新窗口打开 newWindow: true)
   Navs: [
     { text: '朋友', link: '/links', icon: '/assets/images/svg/Navs/links.svg' },
@@ -20,7 +20,7 @@ export default {
   // 侧边栏个人网站
   WebSites: [
     { text: 'Github', link: 'https://github.com/uxiaohan', icon: '/assets/images/svg/WebSites/github.svg' },
-    { text: '韩小韩API', link: 'https://api.vvhan.com', icon: '/assets/images/svg/WebSites/api.svg' },
+    { text: '赵世伟API', link: 'https://api.vvhan.com', icon: '/assets/images/svg/WebSites/api.svg' },
     { text: '每日热榜', link: 'https://hot.vvhan.com', icon: '/assets/images/svg/WebSites/hot.svg' },
     { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: '/assets/images/svg/WebSites/img.svg' },
     { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: '/assets/images/svg/WebSites/analytics.svg' },
